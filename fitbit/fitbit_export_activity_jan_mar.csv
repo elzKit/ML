@@ -1,4 +1,4 @@
-Date,Calories brûlées,Pas,Distance,Étages,Minutes Sédentaire,Minutes Peu actif,Minutes Assez actif,Minutes Très actif,Dépense calorique
+Date,CalBurned,Steps,Distance,Floors,MinNoActivity,MinLowActivity,MinMidActivity,MinHighActivity,Cal
 "01-01-2016","1491","0","0","0","1440","0","0","0","0"
 "02-01-2016","1491","0","0","0","1440","0","0","0","0"
 "03-01-2016","1491","0","0","0","1440","0","0","0","0"
