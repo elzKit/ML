@@ -1,2 +1,2 @@
 # ML
-A display of my own independent work
+A few ipython notebooks with some fun data & its analysis
